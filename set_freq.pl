@@ -27,8 +27,8 @@ $radio->setChannelInfo(32, { freq => '146.640' });
 $radio->setChannelInfo(33, { freq => '147.090' });
 
 # Simplex Calling
-$radio->setChannelInfo(34, { freq => '146.520' });
-$radio->setChannelInfo(35, { freq => '446.000' });
+$radio->setChannelInfo(62, { freq => '146.520' });
+$radio->setChannelInfo(63, { freq => '446.000' });
 
 # CB 
 $radio->setChannelInfo(261, { freq => '26.965' });
