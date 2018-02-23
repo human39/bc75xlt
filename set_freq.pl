@@ -25,6 +25,17 @@ $radio->setChannelInfo(32, { freq => '146.640' });
 
 # W3EXW, North Hills Amateur Radio Club, http://nharc.org/
 $radio->setChannelInfo(33, { freq => '147.090' });
+$radio->setChannelInfo(34, { freq => '146.880' });
+$radio->setChannelInfo(35, { freq => '444.400' });
+$radio->setChannelInfo(36, { freq => '444.350' });
+$radio->setChannelInfo(37, { freq => '224.100' });
+$radio->setChannelInfo(38, { freq => '146.820' });
+
+
+# K3PSG, BUTLER COUNTY AMATEUR RADIO 
+$radio->setChannelInfo(39, { freq => '147.30000' });
+$radio->setChannelInfo(40, { freq => '443.90000' });
+
 
 # Simplex Calling
 $radio->setChannelInfo(62, { freq => '146.520' });
