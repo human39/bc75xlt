@@ -41,6 +41,30 @@ $radio->setChannelInfo(40, { freq => '443.90000' });
 $radio->setChannelInfo(62, { freq => '146.520' });
 $radio->setChannelInfo(63, { freq => '446.000' });
 
+# FRS/GMRS
+$radio->setChannelInfo(90, { freq => '462.5500' });
+$radio->setChannelInfo(91, { freq => '462.5625' });
+$radio->setChannelInfo(92, { freq => '462.5750' });
+$radio->setChannelInfo(93, { freq => '462.5875' });
+$radio->setChannelInfo(94, { freq => '462.6000' });
+$radio->setChannelInfo(95, { freq => '462.6125' });
+$radio->setChannelInfo(96, { freq => '462.6250' });
+$radio->setChannelInfo(97, { freq => '462.6375' });
+$radio->setChannelInfo(98, { freq => '462.6500' });
+$radio->setChannelInfo(99, { freq => '462.6625' });
+$radio->setChannelInfo(100, { freq => '462.6750' });
+$radio->setChannelInfo(101, { freq => '462.6875' });
+$radio->setChannelInfo(102, { freq => '462.7000' });
+$radio->setChannelInfo(103, { freq => '462.7125' });
+$radio->setChannelInfo(104, { freq => '462.7250' });
+$radio->setChannelInfo(105, { freq => '467.5625' });
+$radio->setChannelInfo(106, { freq => '467.5875' });
+$radio->setChannelInfo(107, { freq => '467.6125' });
+$radio->setChannelInfo(108, { freq => '467.6375' });
+$radio->setChannelInfo(109, { freq => '467.6625' });
+$radio->setChannelInfo(110, { freq => '467.6875' });
+$radio->setChannelInfo(111, { freq => '467.7125' });
+
 # CB 
 $radio->setChannelInfo(261, { freq => '26.965' });
 $radio->setChannelInfo(262, { freq => '26.975' });
